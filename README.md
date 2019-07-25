@@ -9,4 +9,4 @@ sudo dpkg -i playerctl-2.0.2_amd64.deb
 sudo apt-get install feh
 
 ## Additional programs
-# gui screen management ```sudo apt-get install arandr```
+- gui screen management ```sudo apt-get install arandr```
